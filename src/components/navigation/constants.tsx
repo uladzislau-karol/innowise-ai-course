@@ -1,5 +1,6 @@
 import { Task1 } from "../task1";
 import { Task2 } from "../task2";
+import { Task3 } from "../task3";
 import { Navigation } from "./navigation";
 
 export const LINKS = [
@@ -21,6 +22,6 @@ export const LINKS = [
   {
     path: "/3",
     label: "Task 3",
-    Component: () => <></>,
+    Component: Task3,
   },
 ];
