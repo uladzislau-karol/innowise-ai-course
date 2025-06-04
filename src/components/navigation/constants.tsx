@@ -1,5 +1,5 @@
 import { Task1 } from "../task1";
-import { Task2 } from "../task2/task2";
+import { Task2 } from "../task2";
 import { Navigation } from "./navigation";
 
 export const LINKS = [
